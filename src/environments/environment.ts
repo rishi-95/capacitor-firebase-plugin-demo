@@ -11,7 +11,9 @@ export const environment = {
     apiKey: 'AIzaSyD_bb8TqlIWuRNgU6Tp67MWnMJp4LA8bqg',
     authDomain: 'mytownbook-3a193.firebaseapp.com',
     messagingSenderId: '267118481599',
-    measurementId: "G-EV8XWV5JT3"
+    measurementId: "G-EV8XWV5JT3",
+    vapidKey:
+      'BJEuGVoLS8tdEXb6YJR9Jv02e0jRGvf4mx5QvVscDdD-JVNkHEkooce9cV44uyTJ3mHrH0HzVzDi_3B8kIGBF8U',
   }
 };
 
